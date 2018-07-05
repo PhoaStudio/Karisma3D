@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Page
 ![Image](https://raw.githubusercontent.com/ProjetsSlift/Karisma3D/master/Artwor%20Falcon.jpg)
 
 You can use the [editor on GitHub](https://github.com/ProjetsSlift/Karisma3D/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
