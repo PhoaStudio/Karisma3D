@@ -1,0 +1,22 @@
+---Afin de clear une zone définie dans Eden Editor---
+
+1)Placer un marqueur elliptique sur la zone où vous désirez clear tout les objets et batiments.
+
+2)Récuperer les coordonnées du marqueur "clic-droit"/"log"/"coordinates"
+
+3)Placer le code suivant dans "Tools"/"Debug-console":
+
+---------------------------------------------------------------------
+
+_location=[***COORDONNEES***];          
+_radius=***DIAMETRE EN METRE***; 
+_terrainobjects=nearestTerrainObjects [_location,[],_radius];         
+{hideObjectGlobal _x} foreach _terrainobjects;
+
+---------------------------------------------------------------------
+
+4)Executer le code
+
+5)Lors d'une Preview de la mission, il faudra de nouveau executer le code (qui sera déja inscrit) depuis la Debug Console (Echap)
+
+---
