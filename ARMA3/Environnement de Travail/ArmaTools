@@ -12,6 +12,7 @@ http://www.armaholic.com/page.php?id=16369
 ***Procedure installation Arma tools/Buldozer/ObjectBuilder***
 -Telecharger et lancer Arma3 Tools (en ayant choisit la dev build et activé les MAJ automatiques)
 -Monter le lecteur P "mount the project drive"
+-Telechargement de la branche developpement Arma 3 "Game Updater"
 -Le dossier armaproject se créera automatiquement dans les documents
 -Importation des dossiers du dossier racine du jeu "project drive management" -> "ExtractGame Data"
 -
