@@ -30,7 +30,7 @@ class CfgVehicles
 	class ***Variable_Projet***: Furniture_base_F
 	{
 		scope=2;
-		author="***VotreNom*** - Edaly";
+		author="***VotreNom*** - Karisma";
 		displayName="***NomDansCatégorie";
 		model="***AdresseDuModeleP3D";
 		editorCategory = "EdCat_Karisma_test";
