@@ -1,0 +1,11 @@
+Architecture du dossier de Mod pour Binarisation avec AddonBuilder
+
+.../@NomDuMod/Addons/NomDuMod/***config.cpp***
+.../@NomDuMod/Addons/NomDuMod/Asset/***Modele3D***
+.../@NomDuMod/Addons/NomDuMod/Data/***Textures et Fichiers RVmat***
+
+-Modèle en .P3D Export de ObjectBuilder
+-Texture de base en .paa (Nommée "NomTexture_co.paa")
+-Normal Map en .paa (Nommée "NomTexture_nohq.paa")
+-Specular en .paa (Nommée "NomTexture_smdi.paa")
+
