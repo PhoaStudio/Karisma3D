@@ -1,0 +1,48 @@
+***************A CORRIGER********************
+
+class CfgPatches
+{
+	class Karisma_Test
+	{
+		units[]=
+		{
+			"***Variable_Projet***",
+      "***Variable_Projet2***"
+		};
+		weapons[]={};
+		requiredVersion=0.1;
+		requiredAddons[]=
+		{
+			"A3_Soft_F"
+		};
+	};
+};	
+class CfgEditorCategories
+{
+	class EdCat_Karisma_test    
+	{
+		displayName = "Karisma Test";
+	};
+};
+
+class CfgVehicles
+{
+	class Furniture_base_F;
+	class ***Variable_Projet***: Furniture_base_F
+	{
+		scope=2;
+		author="***VotreNom*** - Karisma";
+		displayName="***NomDansCatégorie";
+		model="***AdresseDuModeleP3D";
+		editorCategory = "EdCat_Karisma_test";
+	};
+  
+	class ***Variable_Projet2***: Furniture_base_F
+	{
+		scope=2;
+		author="***VotreNom*** - Karisma";
+		displayName="***NomDansCatégorie";
+		model="***AdresseDuModeleP3D";
+		editorCategory = "EdCat_Karisma_test";
+	};
+};
