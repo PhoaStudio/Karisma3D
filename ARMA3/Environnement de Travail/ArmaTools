@@ -14,9 +14,9 @@ https://community.bistudio.com/wiki/Buldozer_Manual
 
 **Procedure installation Arma tools/Buldozer/ObjectBuilder**
 -Telecharger et lancer Arma3 Tools (en ayant choisit la dev build et activé les MAJ automatiques)
--Monter le lecteur P
+-Monter le lecteur P "mount the project drive"
 -Le dossier armaproject se créera automatiquement dans les documents
--Importation des dossiers du dossier racine du jeu
+-Importation des dossiers du dossier racine du jeu "project drive management"
 -Remplacement des dll presents par ceux de la racine du jeu
 -Installation Buldozer
 -Dans ArmaTools preferences  regler et creer fichier config
