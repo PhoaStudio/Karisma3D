@@ -1,7 +1,7 @@
 
 
 # Karisma-3D
-![Image](https://raw.githubusercontent.com/Karisma-3D/Karisma3D/master/DocWebSite/LogoKarisma.jpg)
+![Image](https://raw.githubusercontent.com/Karisma-3D/Karisma3D/master/DocWebSite/LogoKarisma3.jpg)
 
 ## Welcome to GitHub Page
 
