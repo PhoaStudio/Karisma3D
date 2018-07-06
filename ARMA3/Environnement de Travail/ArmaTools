@@ -1,28 +1,32 @@
 ********A CORRIGER*******
 
+***ArmaTools***
 https://store.steampowered.com/app/233800/Arma_3_Tools/?l=french
 
-Telechargement avec un compte Steam Valide
-Contient pour ces logiciels les plus interessants:
--ObjectBuilder 
--TexView2
--AddonBuilder
--
-
-Installation de Buldozer
+***Buldozer Manuel***
 https://community.bistudio.com/wiki/Buldozer_Manual
 
-**Procedure installation Arma tools/Buldozer/ObjectBuilder**
+***PBO Manager***
+http://www.armaholic.com/page.php?id=16369
+
+***Procedure installation Arma tools/Buldozer/ObjectBuilder***
 -Telecharger et lancer Arma3 Tools (en ayant choisit la dev build et activé les MAJ automatiques)
 -Monter le lecteur P "mount the project drive"
 -Le dossier armaproject se créera automatiquement dans les documents
--Importation des dossiers du dossier racine du jeu "project drive management"
+-Importation des dossiers du dossier racine du jeu "project drive management" -> "ExtractGame Data"
+-
+
+
+
+
+
+
 -Remplacement des dll presents par ceux de la racine du jeu
 -Installation Buldozer
 -Dans ArmaTools preferences  regler et creer fichier config
 -Ouverture object builder
 
-**Configuration**
+***Configuration***
 -dans fichiers/options 
 -External Viewer: P:\buldozer.exe -buldozer -name=Buldozer -window -noLand -exThreads=0 -noLogs -noAsserts -cfg=p:\buldozer.cfg
 DLL Folder: <steamPath>\steamapps\common\Arma 3 Tools\ObjectBuilder
