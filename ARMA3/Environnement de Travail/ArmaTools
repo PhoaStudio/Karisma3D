@@ -1,5 +1,39 @@
+********A CORRIGER*******
+
 https://store.steampowered.com/app/233800/Arma_3_Tools/?l=french
 
 Telechargement avec un compte Steam Valide
 Contient pour ces logiciels les plus interessants:
+-ObjectBuilder 
+-TexView2
+-AddonBuilder
+-
 
+Installation de Buldozer
+https://community.bistudio.com/wiki/Buldozer_Manual
+
+**Procedure installation Arma tools/Buldozer/ObjectBuilder**
+-Telecharger et lancer Arma3 Tools (en ayant choisit la dev build et activé les MAJ automatiques)
+-Monter le lecteur P
+-Le dossier armaproject se créera automatiquement dans les documents
+-Importation des dossiers du dossier racine du jeu
+-Remplacement des dll presents par ceux de la racine du jeu
+-Installation Buldozer
+-Dans ArmaTools preferences  regler et creer fichier config
+-Ouverture object builder
+
+**Configuration**
+-dans fichiers/options 
+-External Viewer: P:\buldozer.exe -buldozer -name=Buldozer -window -noLand -exThreads=0 -noLogs -noAsserts -cfg=p:\buldozer.cfg
+DLL Folder: <steamPath>\steamapps\common\Arma 3 Tools\ObjectBuilder
+(replace <SteamPath> with the full path to your Steam directory), in the end, this must points the root directory of Object Builder.
+Path for textures: P:\ 
+
+ouvrir terrain builder
+- Open Terrain Builder, go into “Tools” >> “Preferences”
+Set the following parameters:
+a3ct terrainBuilder options.jpg
+
+.exe file path: P:\Buldozer.exe
+Launch parameters: -buldozer -name=Buldozer -window -exThreads=0 -disableSteam -noAsserts -cfg=p:\buldozer.cfg
+Data Directory: P:\
